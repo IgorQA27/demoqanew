@@ -15,5 +15,3 @@ def test_icon_exist(browser):
     #     print("элемент не найдет")
     # else:
     #     print("элемент найден")
-
-
